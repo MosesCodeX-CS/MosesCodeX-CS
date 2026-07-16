@@ -1,218 +1,144 @@
+```
+● moses.service - Software Engineer, Systems & Security
+     Loaded: loaded (/kenya/nairobi-ish; enabled)
+     Active: active (running) since ~forever ago
+       Docs: github.com/MosesCodeX-CS
+    Process: fixes-what-breaks.sh --priority=urgent
+   Main PID: 1 (never dies, only restarts)
+      Tasks: too many, see `systemctl list-projects`
+     Uptime: 420 days without a reboot (bragging rights, not a typo)
+```
+
 <div align="center">
-
-# 👋 Hey, I'm Moses
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=IT+%26+Networking+Guy;Laravel+%2B+Flutter+%2B+Python;Parrot+OS+Terminal+Dweller;Building+Systems+That+Can't+Fail;Neovim%2C+Always+Neovim" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=MosesCodeX-CS&label=Profile+Views&color=00E5FF&style=for-the-badge"/>
-
-[![GitHub followers](https://img.shields.io/github/followers/MosesCodeX-CS?style=for-the-badge)](https://github.com/MosesCodeX-CS?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/MosesCodeX-CS?style=for-the-badge)](https://github.com/MosesCodeX-CS)
-
+<img src="https://komarev.com/ghpvc/?username=MosesCodeX-CS&label=connections+received&color=00E5FF&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/MosesCodeX-CS?style=flat-square&label=watching"/>
+<img src="https://img.shields.io/github/stars/MosesCodeX-CS?style=flat-square&label=starred+by+humans"/>
 </div>
 
 ---
 
-# 💻 whoami
+### `$ journalctl -u moses.service --since "always"`
 
-```bash
-$ whoami
-
-Name        :: Moses
-Role        :: IT & Networking by day, systems engineer by night
-Location    :: Kenya 🇰🇪
-Daily Driver:: Parrot OS (bspwm, kitty, Neovim — no mouse, no mercy)
-Status      :: Shipping things that hospitals and landlords actually rely on
-Mission     :: Write software that doesn't make the phrase "have you tried turning it off and on" necessary
+```
+[BOOT]     Kenya. Networking cables. A very patient Cisco instructor.
+[INFO]     Started fixing routers before fixing code felt natural.
+[INFO]     Discovered PHP. Was told it's dead. Ignored the memo.
+[WARN]     Attempted chess.com rating climb. Queen sacrificed unintentionally.
+[INFO]     Installed Parrot OS. Removed the mouse from the equation.
+[INFO]     Compiled Neovim config. Has not left it since.
+[CRIT]     Told a hospital "yes, I can monitor your oxygen plant."
+[INFO]     It worked. Nobody panicked. 10/10 outcome.
+[ONGOING]  Still building things that are not allowed to fail quietly.
 ```
 
 ---
 
-# ⚡ About Me
+### `$ ps aux --sort=-priority | grep moses`
 
-```python
-class Moses:
+```
+USER   PID   PROJECT       STAT   %FOCUS  COMMAND
+moses  0001  OPMAS-001     R      92%     laravel + pymodbus --mode=read-only
+moses  0002  NyumbaFind    R      85%     laravel + postgres --with=mpesa,otp
+moses  0003  Bingwa        S      60%     flutter kotlin --survive=doze-mode
+moses  0004  sleep         Z      04%     (defunct, rarely called)
+```
 
-    def __init__(self):
-        self.name = "Moses"
-        self.role = "ICT Support & Networking → Full Stack + Systems Engineer"
+**`OPMAS-001`** — Hospital oxygen plant monitor. Polls Modbus TCP, watches the gauges so a human doesn't have to walk there at 2am. Deliberately **read-only** — the one process on this list not allowed to touch anything.
 
-        self.code = ["PHP", "Python", "Kotlin", "Dart", "JavaScript", "Bash"]
-        self.frameworks = ["Laravel", "Flutter", "Bootstrap"]
-        self.databases = ["PostgreSQL", "MySQL"]
+**`NyumbaFind`** — Kenya rental marketplace. Real OTP auth, real M-Pesa STK Push, real design system. Built so house-hunting stops depending on a guy named "Agent Dennis" and his one blurry photo.
 
-        self.tools = [
-            "Parrot OS", "Neovim", "bspwm/i3wm", "kitty",
-            "polybar", "rofi", "Git", "Nginx",
-            "Supervisor", "Docker (soon, I promise)"
-        ]
+**`Bingwa`** — Android app that automates bundle purchases over USSD. Survived a full war against Android's Doze mode, wakelock races, and a bug where the app mistook the time `05:38` for a menu option. It's still running. So is the app.
 
-        self.currently_building = [
-            "OPMAS-001 — oxygen plant monitor, hospital-grade, read-only on purpose",
-            "NyumbaFind — Kenya rental marketplace, M-Pesa & OTP included",
-            "Bingwa — Android USSD automation that survived Doze mode and lived"
-        ]
+---
 
-        self.will_not_do = ["use a mouse if avoidable", "trust a GUI network config", "leave Vim mode on accident"]
+### `$ apt list --installed | grep moses-stack`
 
-    def life(self):
-        while True:
-            self.learn()
-            self.build()
-            self.break_something()
-            self.blame_dns()          # it's never DNS. it's always DNS.
-            self.fix_it_with_vim()
-            self.repeat()
+```
+laravel/framework .......... backend, opinionated, unbothered
+php ......................... still cool, no debate accepted
+python3-pymodbus ............ hardware whisperer
+flutter & kotlin ............ mobile, fighting the OS for survival
+postgresql / mysql .......... where the truth lives
+parrot-os .................... daily driver, zero regrets
+neovim + lua ................. home
+bspwm / i3wm / kitty / rofi .. terminal aesthetics, taken seriously
+nginx / supervisor ........... keeps things alive after I log off
+docker ....................... [pending] — ask again next quarter
 ```
 
 ---
 
-# 🚀 Current Projects
+### `$ traceroute moses --skills networking`
 
-## 🩺 OPMAS-001
-Oxygen plant monitoring for a hospital.
-Laravel 12 dashboard + Python/pymodbus talking Modbus TCP to real hardware — **read-only by design**, because nothing I write should be able to touch a valve.
-
-## 🏠 NyumbaFind
-A Kenya-focused rental marketplace.
-Laravel + PostgreSQL, phone OTP via Africa's Talking, M-Pesa Daraja STK Push, and a real design system instead of default Bootstrap.
-
-## 📲 Bingwa
-Android app automating Safaricom bundle purchases over USSD.
-Flutter + Kotlin. Survived wakelock races, alarm storms, and a bug where the app mistook a clock (`05:38`) for a USSD menu. It lived.
-
-## 🔐 Cybersecurity
-Building on Cisco cybersecurity fundamentals — because "IT support" eventually means you're the security team too, whether you signed up for it or not.
+```
+ 1  cisco-fundamentals.local     0.3ms   verified, not vibes-based
+ 2  subnetting.gateway           1.1ms   can still do it on paper
+ 3  it-support.legacy            2.4ms   the "have you tried restarting it" era
+ 4  cybersecurity.upstream       4.7ms   currently building this hop
+ 5  ***                          ***     request timed out (still learning)
+```
 
 ---
 
-# 💻 Tech Stack
+### `$ cat /var/log/dev-humor.log`
 
-<div align="center">
+```
+[Chess.com]  flagged another blunder.
+[Chess.com]  has never once flagged a race condition. Missed opportunity.
 
-## Languages
-<img src="https://skillicons.dev/icons?i=php,python,kotlin,dart,js,html,css"/>
+[Debug session]  4 hours spent on a lockscreen crash.
+[Root cause]     a regex matched "05:38" as a USSD menu item.
+[Lesson learned] clocks and menus should never share a parser.
 
-<br><br>
+[Commit message]  "read-only, I promise" — every OPMAS-001 commit,
+                   just in case future-me gets ambitious.
 
-## Frameworks & Data
-<img src="https://skillicons.dev/icons?i=laravel,flutter,postgres,mysql,bootstrap"/>
-
-<br><br>
-
-## Tools
-<img src="https://skillicons.dev/icons?i=linux,git,github,neovim,nginx,docker,bash"/>
-
-</div>
+[Uptime claim]  420 days without a crash.
+[Reality]        or nobody's checked the logs in 420 days. Unclear.
+```
 
 ---
 
-# 📊 GitHub Analytics
+### `$ github-stats --user MosesCodeX-CS`
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MosesCodeX-CS&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesCodeX-CS&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-# 🔥 Streak
-
+<!-- If the streak badge below is asleep (Heroku free-tier does that), swap the src for:
+     https://streak-stats.demolab.com/?user=MosesCodeX-CS&theme=tokyonight&hide_border=true -->
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MosesCodeX-CS&theme=tokyonight&hide_border=true"/>
 </div>
 
-<!--
-  Heroku free-tier badges occasionally sleep or 404. If this one shows broken,
-  swap the src above for the actively-maintained fork instead:
-  https://streak-stats.demolab.com/?user=MosesCodeX-CS&theme=tokyonight&hide_border=true
--->
-
-# 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MosesCodeX-CS&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</div>
-
 ---
 
-# ⚡ Skill Bars (Self-Assessed, Ego Included)
+### `$ man moses`
 
-```text
-Laravel / PHP     ████████████████████░░░   88%
-Flutter / Kotlin  █████████████████░░░░░░   75%
-Python            ██████████████████░░░░░   80%
-Linux / Parrot OS ███████████████████████   96%
-Networking        █████████████████████░░   90%
-Neovim Wizardry   ███████████████████████   97%
-Coffee            ████████████████████████  100%
 ```
+NAME
+       moses — fixes networks, ships systems, occasionally sleeps
 
----
+SYNOPSIS
+       moses [--collaborate] [--report-bug] [--just-say-hi]
 
-# 😂 Random Developer Facts
+DESCRIPTION
+       Builds software for people who cannot afford it to break:
+       hospitals, tenants, agents, telco resellers. Does not build
+       software to impress a portfolio. Occasionally builds software
+       to win an argument about PHP.
 
-```text
-Networking issue? Restart the router.
-Still broken? Restart yourself, mentally, and try again.
+SEE ALSO
+       github.com/MosesCodeX-CS — the process list is public.
 
---------------------------------------
-
-Spent 4 hours debugging a lockscreen crash.
-It was a regex matching "05:38" as a menu item.
-
---------------------------------------
-
-"Read-only monitoring system" — Me, every commit message
-for OPMAS, just in case future-me gets ideas.
-
---------------------------------------
-
-Chess.com: "Blunder detected."
-Also chess.com: has never once flagged my Doze-mode code.
-
---------------------------------------
-
-I don't always write bugs.
-Sometimes they hold for 420 days and become "stability."
+EXIT STATUS
+       Has not exited yet. See --uptime above.
 ```
-
----
-
-# 🐧 Daily Routine
-
-```text
-🌅 Wake up
-☕ Coffee
-🖥️  Open kitty, not a browser
-💻 Neovim
-🐛 Debug something that worked yesterday
-😐 Stare at Modbus logs
-☕ More coffee
-🚀 It works
-😎 git push
-🔥 Something on NyumbaFind breaks instead
-Repeat...
-```
-
----
-
-# 🤝 Let's Connect
-
-I don't bite — unless you push straight to main on something that monitors medical oxygen:
-
-- ⭐ Star a repo if it's useful
-- 🐛 Open an issue if something's broken
-- 🤝 Collaborate if you've got something worth building
-- 👀 Or just admire the commit history
-
-*Building stuff that matters when the telemetry goes quiet at 2am 🔥*
-*"First solve the problem, then write the code" — some wise person, probably mid-`:wq`*
 
 <div align="center">
 
-## 💙 Thanks for stopping by
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Keep+building...;Keep+debugging...;Keep+shipping..." />
+*"First solve the problem, then write the code."*
+*— some wise person, probably mid-`:wq`*
 
 </div>
