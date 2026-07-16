@@ -1,6 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=moses.service&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Systems%20%26%20Security&descAlignY=55&descSize=18&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=🗿%20moses.service&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Software%20Engineer%20%7C%20Systems%20%26%20Security&descAlignY=55&descSize=20&descColor=ffffff"/>
+
+<br>
+
+<!-- Matrix-style intro animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=Initializing+moses.service...;Loading+kernel+modules...;Setting+up+networking+stack...;All+systems+nominal.+Ready." />
+
+<br>
+
+<!-- Glitch effect ASCII art -->
+<pre style="font-family: 'Courier New', monospace; font-size: 12px; color: #00E5FF; line-height: 1.2; background: #0a0a0a; padding: 20px; border-radius: 10px; border: 1px solid #00E5FF; display: inline-block;">
+╔══════════════════════════════════════════════════════╗
+║  ███╗   ███╗ ██████╗ ███████╗███████╗███████╗       ║
+║  ████╗ ████║██╔═══██╗██╔════╝██╔════╝██╔════╝       ║
+║  ██╔████╔██║██║   ██║███████╗█████╗  ███████╗       ║
+║  ██║╚██╔╝██║██║   ██║╚════██║██╔══╝  ╚════██║       ║
+║  ██║ ╚═╝ ██║╚██████╔╝███████║███████╗███████║       ║
+║  ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝       ║
+║                                                      ║
+║  💻 SYSTEM STATUS: OPERATIONAL                       ║
+║  🌍 LOCATION: /kenya/nairobi-ish                    ║
+║  ⚡ UPTIME: 420d 16h 38m                            ║
+║  🛡️ SECURITY: Locked & Loaded                      ║
+╚══════════════════════════════════════════════════════╝
+</pre>
+
+<br>
+
+<!-- Dynamic status badges with pulse animation -->
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logo=statuspage&logoColor=white&color=00FF41&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/UPTIME-420%20DAYS-00E5FF?style=for-the-badge&logo=clockify&logoColor=white&color=00E5FF&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/ROLE-SYSTEMS%20%26%20SECURITY-7C3AED?style=for-the-badge&logo=security&logoColor=white&color=7C3AED&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/TERMINAL-NEOVIM-57A143?style=for-the-badge&logo=neovim&logoColor=white&color=57A143&labelColor=0a0a0a"/>
+</div>
+
+<br>
+
+<!-- Animated counter -->
+<img src="https://komarev.com/ghpvc/?username=MosesCodeX-CS&label=👾%20CONNECTIONS%20RECEIVED&color=00FF41&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/MosesCodeX-CS?style=for-the-badge&label=👁️%20WATCHERS&color=00E5FF&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/MosesCodeX-CS?style=for-the-badge&label=⭐%20STARS&color=7C3AED&logo=github&logoColor=white"/>
 
 </div>
 
@@ -17,14 +58,23 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Making+routers+behave+since+forever;PHP+is+still+cool.+Fight+me.;Read-only+by+design%2C+stubborn+by+nature;Neovim.+No+mouse.+No+mercy." />
+<!-- Cool rotating quote -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=⚡+Making+routers+behave+since+forever;🐍+Python+is+my+second+language...+after+Coffee;💀+PHP+is+still+cool.+Fight+me.;🔒+Read-only+by+design%2C+stubborn+by+nature;⌨️+Neovim.+No+mouse.+No+mercy.;🚀+Deploying+to+production+like+a+boss"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MosesCodeX-CS&label=CONNECTIONS+RECEIVED&color=00E5FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/MosesCodeX-CS?style=for-the-badge&label=WATCHERS&color=7C3AED&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/github/stars/MosesCodeX-CS?style=for-the-badge&label=STARS&color=00E5FF&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
+<!-- Cool terminal-style intro -->
+<pre style="font-family: 'Courier New', monospace; font-size: 13px; color: #00FF41; background: #0a0a0a; padding: 20px; border-radius: 10px; border-left: 3px solid #00FF41; text-align: left; max-width: 800px; margin: 0 auto;">
+<span style="color: #00E5FF;">🔐 ESTABLISHING SECURE SHELL CONNECTION...</span>
+<span style="color: #7C3AED;">   ████████████████████████ 100%</span>
+<span style="color: #00FF41;">✅ CONNECTION ESTABLISHED</span>
+<span style="color: #00E5FF;">🔑 AUTHENTICATION: moses.key</span>
+<span style="color: #00FF41;">   ████████████████████████ 100%</span>
+<span style="color: #7C3AED;">🛡️  SECURITY PROTOCOL: AES-256-GCM</span>
+<span style="color: #00FF41;">✅ ACCESS GRANTED</span>
+<span style="color: #00E5FF;">💻 WELCOME, MOSES.</span>
+<span style="color: #7C3AED;">🌍 LAST LOGIN: Thu Jul 16 14:38:42 2026 from 127.0.0.1</span>
+</pre>
 
 </div>
 
