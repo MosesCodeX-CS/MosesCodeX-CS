@@ -1,132 +1,76 @@
-<div align="center">
+# Hey there! 👋
 
-<!-- Clean, modern system header -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=00FF41&height=180&section=header&text=🗿%20moses.service&fontSize=55&fontColor=0a0a0a&fontAlignY=45&desc=Systems%20%7C%20Security%20%7C%20Software%20Engineer&descAlignY=65&descSize=18&descColor=111111"/>
+Okay fine, I finally caved and wrote one of these README things. Here's the deal:
 
-<!-- Dynamic Typewriter -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+moses.service...;Neovim.+No+mouse.+No+mercy.;PHP+is+still+cool.+Fight+me.;All+systems+nominal.+Ready." />
+**I'm Moses** - the guy who fixes what breaks and builds what works  
+By day: ICT wizard making servers behave  
+By night: Coding hospital systems that don't drive doctors insane  
+♟️ Chess enthusiast who occasionally blunders queens (but we don't talk about that)
 
-</div>
+## 🎯 What I'm About
 
-<pre style="font-family: 'Courier New', monospace; font-size: 13px; color: #00FF41; background: #0a0a0a; padding: 18px; border-radius: 8px; border-left: 4px solid #00FF41; line-height: 1.5;">
-● moses.service - Software Engineer & Systems Administrator
-     Loaded: loaded (/kenya/nairobi-ish; enabled; vendor preset: awesome)
-     Active: active (running) since ~forever ago
-       Docs: github.com/MosesCodeX-CS
-   Main PID: 1 (never dies, only gets better)
-     Uptime: 420d 16h 38m without a reboot 🐧
-     Status: "Fixing what breaks, building what works."
-</pre>
+**Current obsession:** Building a hospital management system that actually makes sense and doesn't look like it's from 1998  
+**Secret weapon:** PHP (yes, it's still cool fight me) and MySQL queries that actually work  
+**Spirit animal:** A well-configured Ubuntu server that hasn't crashed in 420 days  
+**Hot take:** Vim > everything else, and I'm tired of pretending it's not  
+**Guilty pleasure:** Writing Bash scripts for things that definitely don't need Bash scripts
 
----
+## 🏗️ What I'm Building
 
-## 📜 `journalctl -u moses.service --since "eternity"`
+**🚀 HMIS Revolution** - Because hospital software shouldn't make doctors want to cry  
+- Clean UI that doesn't require a PhD to navigate  
+- Database design that actually makes sense  
+- Real hospital workflows, not just pretty code
 
-<pre style="font-family: 'Courier New', monospace; font-size: 13px; color: #ffffff; background: #0a0a0a; padding: 18px; border-radius: 8px; line-height: 1.5;">
-[BOOT]     🌍 Kenya. Networking cables. A very patient Cisco instructor.
-[INFO]     🔧 Started fixing routers before code felt natural.
-<span style="color: #00FF41;">+ [INFO]     💻 Discovered PHP. Was told it's dead. Ignored the memo.</span>
-<span style="color: #ff5555;">[WARN]     ♟️ Attempted chess.com rating climb. Queen sacrificed unintentionally.</span>
-[INFO]     🐧 Installed Parrot OS. Removed the mouse from the equation.
-<span style="color: #00FF41;">+ [INFO]     ⚡ Compiled Neovim config. Has not left it since.</span>
-<span style="color: #ffb86c;">[CRIT]     🏥 Told a hospital "yes, I can monitor your oxygen plant."</span>
-<span style="color: #00FF41;">+ [OK]       ✅ It worked. Nobody panicked. 10/10 outcome.</span>
-[ONGOING]   🚀 Still building things that are not allowed to fail quietly.
-</pre>
+**🌐 IT Services Hub** - Showing the world I can make things look good too  
+- Smooth animations that don't freeze your browser  
+- Mobile-friendly because 2024, people!  
+- "View Demo" buttons that actually work (revolutionary, I know)
 
----
+## 🐧 My Linux Journey
 
-## ⚡ `ps aux --sort=-cpu | grep moses`
+Currently deep in the Ubuntu trenches:
+- **Apache2 configs** that don't give me nightmares
+- **PHP setups** that actually handle traffic
+- **User permissions** because security isn't optional
+- **Docker** - because everyone says I should learn it
+- **Bash scripting** for automating my life away
 
-### 🏥 **OPMAS-001** | *Hospital Oxygen Plant Monitor*
-> **Stack:** Laravel, Python, pymodbus | **Status:** 🟢 Active
-* Polls critical hospital hardware so nobody has to walk to check a gauge at 2am.
-* Deliberately designed to be **read-only**—the only process here not allowed to touch anything.
+⚡ **Fun fact:** I can debug Apache configs faster than I can solve chess puzzles  
+🔥 **Another fun fact:** I once fixed a production server with just `vim` and a prayer  
+🎯 **Life goal:** Make technology that helps real people, not just impresses other devs
 
-### 🏠 **NyumbaFind** | *Kenya Rental Marketplace*
-> **Stack:** Laravel, PostgreSQL, M-Pesa API | **Status:** 🚀 Shipping
-* House-hunting without "Agent Dennis" and his single blurry photo.
-* Features real SMS OTP authentication and automated STK Push.
+## 💻 Tech Stack & Tools
 
-### 📲 **Bingwa** | *USSD Automation on Android*
-> **Stack:** Flutter, Kotlin, Android SDK | **Status:** 🟡 Battle-tested
-* Survived wake-lock races, battery optimization policies, and an infamous bug where the app mistook `05:38` for a menu option.
+**Backend Magic:** PHP, MySQL, Apache2  
+**Frontend Finesse:** HTML, CSS, JavaScript, Bootstrap  
+**System Sorcery:** Ubuntu, Bash, Git, Docker (learning!)  
+**Secret Weapons:** Vim with Lua, Networking knowledge, and unlimited coffee
 
 ---
 
-## 🛠️ `apt list --installed | grep moses-stack`
+## 📊 GitHub in Numbers
 
-* **Languages & Runtimes:** `PHP`, `Python`, `Kotlin`, `Dart`, `JS`, `Bash`
-* **Frameworks & DBs:** `Laravel`, `Flutter`, `PostgreSQL`, `MySQL`
-* **Systems & Tools:** `Parrot OS`, `Neovim` (Lazy.nvim + Lua), `Docker`, `Nginx`, `Git`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MosesCodeX-CS&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesCodeX-CS&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+</p>
 
-<pre style="font-family: 'Courier New', monospace; font-size: 13px; color: #7C3AED; background: #0a0a0a; padding: 18px; border-radius: 8px; line-height: 1.5;">
-# ~/.moses-config.yaml
-os:       Parrot OS  # Daily driver, zero regrets
-wm:       bspwm / i3wm-gaps
-terminal: kitty / alacritty
-shell:    zsh + tmux
-</pre>
-
----
-
-## 🌐 `traceroute moses --skills networking`
-
-<pre style="font-family: 'Courier New', monospace; font-size: 13px; color: #00E5FF; background: #0a0a0a; padding: 18px; border-radius: 8px; line-height: 1.5;">
- 1  cisco-fundamentals.local     0.3ms   ✅ verified, not vibes-based
- 2  subnetting.gateway           1.1ms   ✅ can still do it on paper
- 3  it-support.legacy            2.4ms   ✅ the "have you tried restarting it" era
- 4  cybersecurity.upstream       4.7ms   🟠 currently building this hop
- 5  ***                          ***     ⏳ request timed out (still learning)
-</pre>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MosesCodeX-CS&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/MosesCodeX-CS?style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/MosesCodeX-CS?style=flat-square"/>
+</p>
 
 ---
 
-## 📊 `github-stats --user MosesCodeX-CS`
+## 🎲 Let's Connect?
 
-<div align="center">
+I don't bite (unless you mess with my production server):
+- Check out my projects below
+- Open an issue if you find something broken
+- Collaborate on something cool
+- Or just admire my commit history 👀
 
-<!-- Clean, non-clashing stats layout -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MosesCodeX-CS&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00FF41&title_color=00E5FF&bg_color=0a0a0a"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesCodeX-CS&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&bg_color=0a0a0a"/>
-
-</div>
-
----
-
-## 📖 `man moses`
-
-<pre style="font-family: 'Courier New', monospace; font-size: 13px; color: #ffffff; background: #0a0a0a; padding: 18px; border-radius: 8px; line-height: 1.5;">
-NAME
-       moses — fixes networks, ships systems, occasionally sleeps
-
-SYNOPSIS
-       moses [--collaborate] [--report-bug] [--just-say-hi]
-
-DESCRIPTION
-       Builds software for people who cannot afford it to break:
-       hospitals, tenants, agents, telco resellers. Does not build
-       software to impress a portfolio. Occasionally builds software
-       to win an argument about PHP.
-
-OPTIONS
-       --collaborate    Open to contributions and ideas.
-       --just-say-hi    Always welcome. Coffee ☕ appreciated.
-</pre>
-
----
-
-## 🔗 `connect --with moses`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MosesCodeX-CS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-<br>
-
-*“First solve the problem, then write the code.”*  
-**— some wise person, probably mid-`:wq`**
-
-</div>
+*Building stuff that matters when the server's on fire 🔥*  
+*"First solve the problem, then write the code" - some wise person probably*
