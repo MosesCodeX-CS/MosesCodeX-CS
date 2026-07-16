@@ -73,8 +73,12 @@ Currently deep in the Parrot OS trenches:
 ## 📊 GitHub in Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MosesCodeX-CS&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesCodeX-CS&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MosesCodeX-CS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesCodeX-CS&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="155"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MosesCodeX-CS&theme=tokyonight&hide_border=true" height="155"/>
 </p>
 
 <p align="center">
